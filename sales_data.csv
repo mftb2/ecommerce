@@ -1,0 +1,7 @@
+order_id,product,quantity,price,date
+1,Widget A,2,20.00,2024-01-01
+2,Widget B,1,15.00,2024-01-02
+3,Widget A,1,20.00,2024-01-03
+4,Widget C,5,10.00,2024-01-04
+5,Widget B,3,15.00,2024-01-05
+6,Widget C,2,10.00,2024-01-06
